@@ -16,7 +16,7 @@ This extension is hosted at [PECL](http://pecl.php.net) and can be installed wit
 ### PHARext
 
 Watch out for [PECL replicates](https://replicator.pharext.org?raphf)
-and pharext packages attached to [releases](./releases).
+and pharext packages attached to [releases](https://github.com/m6w6/ext-raphf/releases).
 
 ### Checkout
 
