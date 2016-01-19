@@ -10,6 +10,23 @@ This extension is hosted at [PECL](http://pecl.php.net) and can be installed wit
 
     # pecl install raphf
 
+> ***NOTE:***  
+  Please note, that v1.x of ext-raphf works for PHP-5 and v2.x/master works for PHP-7 only.
+
+### PHARext
+
+Watch out for [PECL replicates](https://replicator.pharext.org?raphf)
+and pharext packages attached to [releases](./releases).
+
+### Checkout
+
+	git clone github.com:m6w6/ext-raphf
+	cd ext-raphf
+	/path/to/phpize
+	./configure --with-php-config=/path/to/php-config
+	make
+	sudo make install
+
 ## INI Directives:
 
 * raphf.persistent_handle.limit = -1  
@@ -19,4 +36,6 @@ This extension is hosted at [PECL](http://pecl.php.net) and can be installed wit
 
 > ***NOTE:***  
   This extension mostly only provides infrastructure for other extensions.
-  See the [API docs here](http://php.github.io/pecl-php-raphf/).
+  See the API docs here:
+  [v1.1.x](https://m6w6.github.io/ext-raphf/v1.1.x),
+  [master](https://m6w6.github.io/ext-raphf/master).
