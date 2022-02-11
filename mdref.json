@@ -1,0 +1,21 @@
+{
+    "name": "raphf",
+    "origin": "github.com/mdref/mdref-raphf",
+    "branch": "master",
+    "editUrl": "https://github.com/mdref/mdref-raphf/edit/master/%s.md",
+    "commentProvider": {
+        "giscus": {
+            "data": {
+                "repo": "mdref/mdref-raphf",
+                "category": "Comments",
+                "repo-id": "MDEwOlJlcG9zaXRvcnkxNDU1ODY0Mw==",
+                "category-id": "DIC_kwDOAN4ls84CBHtb",
+                "mapping": "pathname",
+                "input-position": "bottom",
+                "reactions-enabled": false,
+                "theme": "light",
+                "lang": "en"
+            }
+        }
+    }
+}
