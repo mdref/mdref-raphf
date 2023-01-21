@@ -11,7 +11,7 @@ This extension is hosted at [PECL](http://pecl.php.net) and can be installed wit
     # pecl install raphf
 
 > ***NOTE:***  
-  Please note, that v1.x of ext-raphf works for PHP-5 and v2.x/master works for PHP-7 only.
+  Please note, that v1.x of ext-raphf works for PHP-5 and v2.x/master works for PHP-7 and greater only.
 
 ### PHARext
 
